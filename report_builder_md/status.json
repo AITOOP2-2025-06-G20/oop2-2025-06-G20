@@ -1,0 +1,35 @@
+{
+    "basic_info": {
+        "CLASS_NO": 6,
+        "MY_ID": "K24091",
+        "MY_NAME": "髙宮千聖",
+        "GROUP_ID": 20,
+        "LEADER_ID": "K24034",
+        "LEADER_NAME": "大野恵奈",
+        "MEMBER_ID_1": "K24085",
+        "MEMBER_NAME_1": "仙田和暉",
+        "MEMBER_ID_2": "K24086",
+        "MEMBER_NAME_2": "髙田凪緒",
+        "MEMBER_ID_3": "",
+        "MEMBER_NAME_3": "",
+        "MEMBER_ID_4": "",
+        "MEMBER_NAME_4": "",
+        "MEMBER_ID_5": "",
+        "MEMBER_NAME_5": "",
+        "MEMBER_ID_6": "",
+        "MEMBER_NAME_6": "",
+        "MEMBER_ID_7": "",
+        "MEMBER_NAME_7": "",
+        "MEMBER_ID_8": "",
+        "MEMBER_NAME_8": ""
+    },
+    "history": {
+        "MY_INFO": "- 学籍番号：K24091\n- 氏名：髙宮千聖\n- グループ：20\n    - メンバー\n        - K24091 髙宮千聖（チームリーダー）\n\n        - K24034 大野恵奈\n\n        - K24085 仙田和暉\n\n        - K24086 髙田凪緒\n",
+        "APP_SPEC_DESCRIBE": "- flaskを使ったフォトアルバム\n- 画像をアップロードできる\n- アップロードした画像にタグをつけられる\n- アップロードした画像にコメントを書ける\n- 画像検索ページでタグやコメントから画像を検索できる\n- CSSで画面を見やすくする\n",
+        "APP_IMAGE": "- ここにトップページの手書きいらすと（top_page.jpegもMoodleへアップロードした）\n- ここに画像リストページの手書きイラスト(image_list_page.jpeg)\n- ここに画像アップロードページの手書きいらすと(upload_page.jpeg)\n- ここに画像検索ページの手書きイラスト(search_page.jpeg)\n",
+        "WORK_FLOW": "- 画像をアップロードできる（担当：$MEMBER_ID_3 $MEMBER_NAME_3）\n- アップロードした画像にタグをつけられる（主担当：$MEMBER_ID_1 $MEMBER_NAME_1，副担当：$MEMBER_ID_2 $MEMBER_NAME_2）\n- アップロードした画像にコメントを書ける（主担当：$MEMBER_ID_2 $MEMBER_NAME_2，副担当：$MEMBER_ID_1 $MEMBER_NAME_1）\n- 画像検索ページでタグやコメントから画像を検索できる（担当：$MEMBER_ID_4 $MEMBER_NAME_4）\n- CSSで画面を見やすくする（担当：$MEMBER_ID_5 $MEMBER_NAME_5）\n",
+        "MY_WEEKLY_REPORT": "- (これはサンプルです)\n- 画像を保管する仕様を愛知花子と話あって決めた\n- 保管した画像がWebページに表示されるところまで愛知花子と共同作業して作った\n    - プルリクエストへのリンク\n    - 上のプルリクエストがマージされた\n",
+        "THANKS2MEMBER": "- 画像処理のベースプログラム実装を一緒にした($MEMBER_ID_2 $MEMBER_NAME_2)\n- プルリクエストを処理してくれた（$MEMBER_ID_1 $MEMBER_NAME_1）\n- 調べ物を手伝ってくれた($MEMBER_ID_5 $MEMBER_NAME_5)\n",
+        "MY_THOUGHTS_AND_NEXT_WORKS": "- 計画通りに作業は進んでいる\n- 画像を取り扱う共通仕様は愛知花子と共同で作成したが，来週からは作業を分担してすすめる\n"
+    }
+}
